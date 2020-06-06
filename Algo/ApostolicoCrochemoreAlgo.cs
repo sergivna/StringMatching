@@ -9,7 +9,7 @@ namespace Algo
     {
         public string Name => "Apostolico-Crochemore";
 
-        public static List<int> Search(string source, string pattern)
+        public  List<int> Search(string source, string pattern)
         {
             char[] ptrn = pattern.ToCharArray(), y = source.ToCharArray();
             char[] x = new char[ptrn.Length + 1];
@@ -59,7 +59,7 @@ namespace Algo
             return result;
         }
 
-        private static void PreKmp(char[] x, ref int[] kmpNext)
+        private  void PreKmp(char[] x, ref int[] kmpNext)
         {
             int i, j, m = (x.Length - 1);
 
@@ -78,9 +78,5 @@ namespace Algo
             }
         }
 
-        public List<int> Search(string text, string pattern)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

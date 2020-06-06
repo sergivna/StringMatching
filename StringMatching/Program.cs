@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Algo.Additional;
+using System;
 using System.Collections.Generic;
 using System.IO;
 
@@ -17,13 +18,12 @@ namespace StringMatching
             //  List<int> indexes = Search(str1, str2);
             List<int> indexes = Search(str1, str2);
             foreach (var i in indexes)
-                        Console.WriteLine("Element znaleziono na pozycji: {0}", i);
+                        Console.WriteLine("position: {0}", i);
 
                     Console.WriteLine("\n");
                 
 
         }
-
 
 
 

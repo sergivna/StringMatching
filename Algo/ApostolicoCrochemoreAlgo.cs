@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Algo
 {
-    class ApostoplicoCroshemore: IAlgorithm
+    public class ApostoplicoCroshemoreAlgo : IAlgorithm
     {
         public string Name => "Apostolico-Crochemore";
 

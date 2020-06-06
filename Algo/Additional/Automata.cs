@@ -44,21 +44,6 @@ namespace Algo.Additional
             return (aut);
         }
 
-        public static Graph NewTrie(int v, int e)
-        {
-            Graph aut;
-
-            aut = NewAutomaton(v, e);
-            aut.target = new int[e];
-            for (int i = 0; i < e; i++)
-                aut.target[i] = -1;
-            aut.suffixLink = new int[v];
-            aut.length = new int[v];
-            aut.position = new int[v];
-            aut.shift = new int[e];
-            return (aut);
-        }
-
         public static int NewVertex(Graph g)
         {
             int res = -1;

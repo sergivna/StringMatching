@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMatching", "StringMatching\StringMatching.csproj", "{6E2291E1-1416-4034-9F5B-D14799D5EAB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringMatching", "StringMatching\StringMatching.csproj", "{6E2291E1-1416-4034-9F5B-D14799D5EAB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algo", "Algo\Algo.csproj", "{35141485-6A61-4714-9069-064102A0BFDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algo", "Algo\Algo.csproj", "{35141485-6A61-4714-9069-064102A0BFDC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2E8C01F0-A414-4C14-8A15-7AC5287B9C99}"
+	ProjectSection(SolutionItems) = preProject
+		StringMatching\bin\Debug\netcoreapp3.0\patterns1.txt = StringMatching\bin\Debug\netcoreapp3.0\patterns1.txt
+		StringMatching\bin\Debug\netcoreapp3.0\text1.txt = StringMatching\bin\Debug\netcoreapp3.0\text1.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

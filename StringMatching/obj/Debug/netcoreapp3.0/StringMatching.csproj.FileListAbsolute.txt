@@ -1,0 +1,11 @@
+C:\Users\Julia\source\repos\StringMatching\StringMatching\bin\Debug\netcoreapp3.0\StringMatching.exe
+C:\Users\Julia\source\repos\StringMatching\StringMatching\bin\Debug\netcoreapp3.0\StringMatching.deps.json
+C:\Users\Julia\source\repos\StringMatching\StringMatching\bin\Debug\netcoreapp3.0\StringMatching.runtimeconfig.json
+C:\Users\Julia\source\repos\StringMatching\StringMatching\bin\Debug\netcoreapp3.0\StringMatching.runtimeconfig.dev.json
+C:\Users\Julia\source\repos\StringMatching\StringMatching\bin\Debug\netcoreapp3.0\StringMatching.dll
+C:\Users\Julia\source\repos\StringMatching\StringMatching\bin\Debug\netcoreapp3.0\StringMatching.pdb
+C:\Users\Julia\source\repos\StringMatching\StringMatching\obj\Debug\netcoreapp3.0\StringMatching.csprojAssemblyReference.cache
+C:\Users\Julia\source\repos\StringMatching\StringMatching\obj\Debug\netcoreapp3.0\StringMatching.AssemblyInfoInputs.cache
+C:\Users\Julia\source\repos\StringMatching\StringMatching\obj\Debug\netcoreapp3.0\StringMatching.AssemblyInfo.cs
+C:\Users\Julia\source\repos\StringMatching\StringMatching\obj\Debug\netcoreapp3.0\StringMatching.dll
+C:\Users\Julia\source\repos\StringMatching\StringMatching\obj\Debug\netcoreapp3.0\StringMatching.pdb

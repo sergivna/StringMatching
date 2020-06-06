@@ -14,9 +14,9 @@ namespace StringMatching
                 Console.WriteLine("Input searched string");
                 string str2 = Console.ReadLine();
 
-                    List<int> indexes = Search(str1, str2);
-
-                    foreach (var i in indexes)
+            //  List<int> indexes = Search(str1, str2);
+            List<int> indexes = Search(str1, str2);
+            foreach (var i in indexes)
                         Console.WriteLine("Element znaleziono na pozycji: {0}", i);
 
                     Console.WriteLine("\n");
@@ -24,6 +24,9 @@ namespace StringMatching
 
         }
 
-        
+
+
+
+
     }
 }
